@@ -6,3 +6,5 @@ Topic Covered
 #Pandas
 #Matplotlib
 #Seaborn
+#ML
+#Sckit 

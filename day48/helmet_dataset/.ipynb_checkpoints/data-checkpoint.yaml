@@ -1,0 +1,7 @@
+train: D:\AI-ML Internship\Day48\helmet_dataset\images\train
+val: D:\AI-ML Internship\Day48\helmet_dataset\images\val
+
+nc: 1
+
+names:
+  - helmet

@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['No Person', 'Person']
+
+roboflow:
+  workspace: revathy-jayakumar-hj0ry
+  project: person-detection-yr8sj
+  version: dataset
+  license: Private
+  url: https://app.roboflow.com/revathy-jayakumar-hj0ry/person-detection-yr8sj/dataset

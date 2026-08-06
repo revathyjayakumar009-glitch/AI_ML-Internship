@@ -1,0 +1,5 @@
+Anu,85
+Rahul,90
+Meena,50
+Rohith,95
+Visal,76
